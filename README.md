@@ -64,7 +64,7 @@ bash <(curl -L -s https://git.io/JRw8R) -E -M 4
 ### Другие скрипты
 Смена ядра Xray:
 ```
-bash <(wget -qO- https://dignezzz.github.io/marzban/core_change.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/DigneZzZ/dignezzz.github.io/main/marzban/core_change.sh)
 ```
 
 ## API
