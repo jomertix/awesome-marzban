@@ -34,6 +34,7 @@
 ## Шаблоны подписок
 - [Minimalistic Sub Page](https://github.com/jomertix/marzban-tools/tree/master/subscription)
 - [x0sina sub](https://github.com/x0sina/marzban-sub)
+- [marzban-sub-ru](https://github.com/DigneZzZ/marzban-sub-ru)
 - [Clash](https://github.com/mahanmi/iran-clash-example)
 - [Sing-box](https://github.com/oXIIIo/marzban-template)
 - [marzban-custom-home](https://github.com/LibernetDigital/marzban-custom-home)
