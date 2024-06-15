@@ -39,6 +39,9 @@
 - [Sing-box](https://github.com/oXIIIo/marzban-template)
 - [marzban-custom-home](https://github.com/LibernetDigital/marzban-custom-home)
 
+## Сканеры SNI
+- [SNI-Checker](https://github.com/ElitraProject/SNI-Checker)
+
 ## Скрипты теста скорости, проверки доступности
 Тест доступности сервисов на сервере:
 ```
