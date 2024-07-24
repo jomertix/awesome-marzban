@@ -67,7 +67,21 @@ bash <(curl -L -s https://git.io/JRw8R) -E -M 4
 ### Другие скрипты
 Смена ядра Xray:
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/DigneZzZ/dignezzz.github.io/main/marzban/core_change.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/DigneZzZ/marzban_core_change/main/core.sh)
+```
+Расширенный скрипт для работы с Marzban с командой для обновления ядра (core-update)
+```
+sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/master/marzban.sh)" @ install
+
+#для установки скрипта:
+sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/master/marzban.sh)" @ install-script
+```
+Тот же самый скрипт, но для нод Marzban
+```
+sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/node/marzban-node.sh)" @ install
+
+#для установки скрипта:
+sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/node/marzban-node.sh)" @ install-script
 ```
 
 ## API
