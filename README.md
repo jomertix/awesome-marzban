@@ -72,15 +72,17 @@ bash <(wget -qO- https://raw.githubusercontent.com/DigneZzZ/marzban_core_change/
 Расширенный скрипт для работы с Marzban с командой для обновления ядра (core-update)
 ```
 sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/master/marzban.sh)" @ install
-
-#для установки скрипта:
+```
+для установки скрипта:
+```
 sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/master/marzban.sh)" @ install-script
 ```
-Тот же самый скрипт, но для нод Marzban
+Тот же самый скрипт, но для нод Marzban:
 ```
 sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/node/marzban-node.sh)" @ install
-
-#для установки скрипта:
+```
+для установки скрипта:
+```
 sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/node/marzban-node.sh)" @ install-script
 ```
 
