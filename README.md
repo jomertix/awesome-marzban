@@ -62,7 +62,7 @@ wget -qO- bench.openode.xyz | bash
 ```
 Тест доступности сервисов (Stream Platforms & Game Regions):
 ```
-bash <(curl -L -s https://git.io/JRw8R) -E -M 4
+bash <(curl -L -s https://git.io/JRw8R) -E en -M 4
 ```
 
 ### Другие скрипты
