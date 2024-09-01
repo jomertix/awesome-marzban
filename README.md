@@ -102,7 +102,8 @@ sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/node
 - [Marzban_Flow_Select](https://github.com/M03ED/Marzban_Flow_Select)
 - [holderbot](https://github.com/erfjab/holderbot)
 
-## Аналитика
+## Аналитика/мониторинг
+- [marzban-node-monitor](https://github.com/sm1ky/marzban-node-monitor)
 - [marzban_sqlite_streamlit](https://github.com/lifeindarkside/marzban_sqlite_streamlit)
 - [marzban-grafana-pannel](https://github.com/lifeindarkside/marzban-grafana-pannel)
 - [marzban-exporter](https://github.com/kutovoys/marzban-exporter)
