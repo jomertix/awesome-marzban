@@ -1,6 +1,7 @@
 # Awesome Marzban
 
 ## Основное
+- [Блок о прокси](https://marzban.dev/)
 - [GitHub Marzban](https://github.com/Gozargah/Marzban)
 - [Документация Marzban на русском](https://marzban-docs.sm1ky.com)
 - [Группа Marzban в Telegram](https://t.me/gozargah_marzban)
