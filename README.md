@@ -103,6 +103,7 @@ sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/node
 - [holderbot](https://github.com/erfjab/holderbot)
 
 ## Аналитика/мониторинг
+- [xray-checker](https://github.com/kutovoys/xray-checker)
 - [marzban-node-monitor](https://github.com/sm1ky/marzban-node-monitor)
 - [marzban_sqlite_streamlit](https://github.com/lifeindarkside/marzban_sqlite_streamlit)
 - [marzban-grafana-pannel](https://github.com/lifeindarkside/marzban-grafana-pannel)
