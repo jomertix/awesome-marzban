@@ -114,6 +114,8 @@ sudo bash -c "$(curl -sL https://github.com/DigneZzZ/Marzban-scripts--n/raw/node
 - [MarzbanInboundGenerator](https://azavaxhuman.github.io/MarzbanInboundGenerator)
 - [Marzban-Reality-Generator](https://azavaxhuman.github.io/Marzban-Reality-Generator)
 
-
+## Другие утилиты
+- [marzban-torrent-blocker](https://github.com/kutovoys/marzban-torrent-blocker)
+- [xray-online](https://mmmray.github.io/xray-online)
 
 
