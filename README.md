@@ -10,6 +10,7 @@
 
 ## Бекап
 ### Бекап панели
+- [Backuper](https://github.com/erfjab/Backuper)
 - [Marzban backup (Telegram)](https://github.com/jomertix/marzban-tools/tree/master/backup/marzban)
 - [Marzban backup (rclone)](https://github.com/ElitraProject/marzban-backup)
 - [Marzban backup (Telegram, Discord)](https://github.com/M03ED/Marzban_Backup)
