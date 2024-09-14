@@ -1,12 +1,29 @@
+
 # Awesome Marzban
+
+## Содержание
+1. [Основное](#Основное)
+2. [Бекап](#Бекап)
+   - [Бекап панели](#Бекап-панели)
+   - [Бекап логов](#Бекап-логов)
+3. [Миграция](#Миграция)
+4. [Ограничение пользователей](#Ограничение-пользователей)
+5. [Шаблоны подписок](#Шаблоны-подписок)
+6. [Сканеры SNI](#Сканеры-SNI)
+7. [Скрипты теста скорости, проверки доступности](#Скрипты-теста-скорости-проверки-доступности)
+8. [API](#API)
+9. [Коммерция/боты](#Коммерцияботы)
+10. [Управление пользователями](#Управление-пользователями)
+11. [Аналитика/мониторинг](#Аналитикамониторинг)
+12. [Генераторы inbound'ов](#Генераторы-inboundов)
+13. [Автоматизация](#Автоматизация)
+14. [Другие утилиты](#Другие-утилиты)
 
 ## Основное
 - [Блок о прокси](https://marzban.dev/)
 - [GitHub Marzban](https://github.com/Gozargah/Marzban)
 - [Документация Marzban на русском](https://marzban-docs.sm1ky.com)
 - [Группа Marzban в Telegram](https://t.me/gozargah_marzban)
-
-
 
 ## Бекап
 ### Бекап панели
@@ -20,8 +37,6 @@
 ### Бекап логов
 - [Logs backup (Telegram)](https://github.com/jomertix/marzban-tools/tree/master/backup/logs)
 - [Marzban backup (логи + панель)](https://github.com/terbyn/Marzban_logs_backupTG)
-
-
 
 ## Миграция
 - [X-UI -> Marzban](https://github.com/ItsAML/X-Ui-to-Marzban)
@@ -44,32 +59,33 @@
 ## Сканеры SNI
 - [SNI-Checker (TLS 1.3, HTTP/2)](https://github.com/jomertix/SNI-Checker)
 - [SNI-Checker (only TLS 1.3)](https://github.com/ElitraProject/SNI-Checker)
+- [SNI-Finder (TLS 1.3, HTTP/2 with TLS Ping)](https://github.com/v-kamerdinerov/SNI-Finder)
 
 ## Скрипты теста скорости, проверки доступности
 Тест доступности сервисов на сервере:
-```
+```bash
 bash <(curl -L -s https://bench.openode.xyz/checker.sh)
 ```
 Тест для проверки Instagram:
-```
+```bash
 bash <(curl -L -s https://bench.openode.xyz/checker_inst.sh)
 ```
 Бенчмарк скорости:
-```
+```bash
 wget -qO - bench.sh | bash
 ```
 Бенчмарк скорости (регионы России):
-```
+```bash
 wget -qO- bench.openode.xyz | bash
 ```
 Тест доступности сервисов (Stream Platforms & Game Regions):
-```
+```bash
 bash <(curl -L -s https://git.io/JRw8R) -E en -M 4
 ```
 
 ### Другие скрипты
 Смена ядра Xray:
-```
+```bash
 bash <(wget -qO- https://raw.githubusercontent.com/DigneZzZ/marzban_core_change/main/core.sh)
 ```
 Другие скрипты смотрите [здесь](https://github.com/Gozargah/Marzban-scripts/)
@@ -100,8 +116,9 @@ bash <(wget -qO- https://raw.githubusercontent.com/DigneZzZ/marzban_core_change/
 - [MarzbanInboundGenerator](https://azavaxhuman.github.io/MarzbanInboundGenerator)
 - [Marzban-Reality-Generator](https://azavaxhuman.github.io/Marzban-Reality-Generator)
 
+## Автоматизация
+- [marzban-haproxy-ansible](https://github.com/v-kamerdinerov/marzban-haproxy-ansible) - набор Ansible ролей для автоматической настройки Marzban.
+
 ## Другие утилиты
 - [marzban-torrent-blocker](https://github.com/kutovoys/marzban-torrent-blocker)
 - [xray-online](https://mmmray.github.io/xray-online)
-
-
