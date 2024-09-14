@@ -57,9 +57,10 @@
 - [marzban-custom-home](https://github.com/LibernetDigital/marzban-custom-home)
 
 ## Сканеры SNI
+- [RealiTLScanner](https://github.com/XTLS/RealiTLScanner)
+- [SNI-Finder (TLS 1.3, HTTP/2 with TLS Ping)](https://github.com/v-kamerdinerov/SNI-Finder)
 - [SNI-Checker (TLS 1.3, HTTP/2)](https://github.com/jomertix/SNI-Checker)
 - [SNI-Checker (only TLS 1.3)](https://github.com/ElitraProject/SNI-Checker)
-- [SNI-Finder (TLS 1.3, HTTP/2 with TLS Ping)](https://github.com/v-kamerdinerov/SNI-Finder)
 
 ## Скрипты теста скорости, проверки доступности
 Тест доступности сервисов на сервере:
