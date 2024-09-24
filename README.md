@@ -90,11 +90,21 @@ bash <(curl -L -s https://git.io/JRw8R) -E en -M 4
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/DigneZzZ/marzban_core_change/main/core.sh)
 ```
+Проверка системы на совместимость с Xanmod BBR3:
+```bash
+wget -qO- https://cdn.sm1ky.pl/s/9qFbTF3MKr9W2o3/download | awk -f -
+```
+Автоматическая установка Xanmod BBR3:
+```bash
+bash <(curl -fsSL https://cdn.sm1ky.pl/s/FGdCjrpHbQ5Rq3b/download)
+```
+
 Другие скрипты смотрите [здесь](https://github.com/Gozargah/Marzban-scripts/)
 
 ## API
 - [marzpy](https://github.com/mewhrzad/marzpy)
 - [marzban-api-client](https://github.com/oXIIIo/marzban-api-client)
+- [marzban](https://github.com/sm1ky/marzban_api)
 
 ## Коммерция/боты
 - [marzban-shop](https://github.com/gunsh1p/marzban-shop)
