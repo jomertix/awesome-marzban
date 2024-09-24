@@ -55,6 +55,7 @@
 - [Clash](https://github.com/mahanmi/iran-clash-example)
 - [Sing-box](https://github.com/oXIIIo/marzban-template)
 - [marzban-custom-home](https://github.com/LibernetDigital/marzban-custom-home)
+- [confluence-marzban-home](https://github.com/sm1ky/confluence-marzban-home)
 
 ## Сканеры SNI
 - [RealiTLScanner](https://github.com/XTLS/RealiTLScanner)
