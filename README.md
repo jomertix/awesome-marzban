@@ -125,7 +125,7 @@ bash <(curl -fsSL https://cdn.sm1ky.pl/s/FGdCjrpHbQ5Rq3b/download)
 - [marzban-exporter](https://github.com/kutovoys/marzban-exporter)
 
 ## Генераторы inbound'ов
-- [MarzbanInboundGenerator](https://azavaxhuman.github.io/MarzbanInboundGenerator)
+- [MarzbanInboundGenerator](https://azavaxhuman.github.io/MarzbanInboundGenerator/v2)
 - [Marzban-Reality-Generator](https://azavaxhuman.github.io/Marzban-Reality-Generator)
 
 ## Автоматизация
