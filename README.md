@@ -12,12 +12,13 @@
 6. [Сканеры SNI](#Сканеры-SNI)
 7. [Скрипты теста скорости, проверки доступности](#Скрипты-теста-скорости-проверки-доступности)
 8. [API](#API)
-9. [Коммерция/боты](#Коммерцияботы)
-10. [Управление пользователями](#Управление-пользователями)
-11. [Аналитика/мониторинг](#Аналитикамониторинг)
-12. [Генераторы inbound'ов](#Генераторы-inboundов)
-13. [Автоматизация](#Автоматизация)
-14. [Другие утилиты](#Другие-утилиты)
+9. [MCP / AI](#MCP--AI)
+10. [Коммерция/боты](#Коммерцияботы)
+11. [Управление пользователями](#Управление-пользователями)
+12. [Аналитика/мониторинг](#Аналитикамониторинг)
+13. [Генераторы inbound'ов](#Генераторы-inboundов)
+14. [Автоматизация](#Автоматизация)
+15. [Другие утилиты](#Другие-утилиты)
 
 ## Основное
 - [Блок о прокси](https://marzban.dev/)
@@ -114,6 +115,16 @@ bash <(curl -fsSL https://cdn.sm1ky.pl/s/FGdCjrpHbQ5Rq3b/download)
 - [aiomarzban](https://github.com/P1nk-L0rD/aiomarzban)
 - [MarzJS](https://github.com/maniwrld/marzjs)
 - [marzban-sdk](https://www.npmjs.com/package/marzban-sdk?activeTab=readme) (TypeScript)
+
+## MCP / AI
+
+- [marzban-mcp](https://github.com/Ilmar7786/marzban-sdk) - MCP-сервер для управления Marzban через AI-клиенты (Claude, Cursor, Cline, Windsurf, VS Code и др.). Поддерживает управление пользователями, подписками, хостами, нодами, системной информацией и конфигурацией. Доступ к инструментам ограничивается профилями, а деструктивные операции требуют явного подтверждения.
+
+  - [Документация](https://ilmar7786.github.io/marzban-sdk/docs/mcp-server/overview/)
+  - [npm](https://www.npmjs.com/package/marzban-mcp)
+  - [Docker](https://hub.docker.com/r/ilmar7786/marzban-mcp)
+  - [MCP Registry](https://registry.modelcontextprotocol.io/?q=marzban-mcp)
+
 
 ## Коммерция/боты
 - [marzban-shop](https://github.com/gunsh1p/marzban-shop)
