@@ -79,6 +79,10 @@ bash <(curl -L -s https://bench.openode.xyz/checker_inst.sh)
 ```bash
 wget -qO - bench.sh | bash
 ```
+Бенчмарк CPU, памяти и диска (vhr-bench: sysbench + fio, MIT):
+```bash
+curl -fsSL https://github.com/vpshostreview/vhr-vps-benchmark/releases/latest/download/vhr-bench | bash -s -- --cleanup
+```
 Бенчмарк скорости (регионы России):
 ```bash
 wget -qO- https://raw.githubusercontent.com/jomertix/server-scripts/refs/heads/master/speedtest/countries/speedtest_ru.sh | bash
